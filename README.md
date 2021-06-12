@@ -27,6 +27,8 @@ edef second_goto:
 ```
 * All functions are placed at the bottom of the program and require a end_edef statement.
 * Variables use the var keyword.
+* to execute, use in the terminal `python3 EnderKnight.py Whatever_Your_Ek_File_is.ek --run-with-errors(optional)`
+* --run-with-errors forces the program to run even if it has errors
 
 ## Currently WIP
 * if statements
