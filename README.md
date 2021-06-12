@@ -32,4 +32,5 @@ edef second_goto:
 
 ## Currently WIP
 * if statements
+* Better parsing 
 * Porting to C++ or Rust(requires help from others)
