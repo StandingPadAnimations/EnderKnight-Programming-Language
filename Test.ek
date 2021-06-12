@@ -1,0 +1,25 @@
+var world = "Hello World"
+var number = 5
+echo world
+goto second_goto
+echo "we be back c:"
+math (1+2)*5
+
+
+edef other_echo:
+    echo "edef is awesome"
+    math 25-50*3
+    
+    end_edef other_echo
+
+edef second_goto:
+    echo "this works c:"
+
+    if //number_check// number = 5:
+        echo "yay, if statements work c:"
+
+        end_if_state number_check
+
+    end_edef second_goto
+
+
