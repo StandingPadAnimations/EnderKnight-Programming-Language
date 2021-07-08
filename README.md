@@ -1,6 +1,8 @@
 # EnderKnight-Programming-Language
 Repository for the EnderKnight programming language 
 
+## Instalation
+Currently, the only pre-compiled binary is a exe for 64 bit Windows. If you're on Mac and Linux, you'll have to install a compiler(XMake for Mac, GCC for Linux), open the terminal, go to the main programming language folder(with a file called Makefile, and use the command make
 
 ## Syntax 
 
