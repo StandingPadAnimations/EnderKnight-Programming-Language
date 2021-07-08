@@ -27,7 +27,7 @@ edef other_echo:
 ```
 * All functions are placed at the bottom of the program and require a end_edef statement.
 * Variables use the var keyword.
-* to execute, use in the terminal `EnderKnightShell "any ek file`
+* to execute, use in the terminal `EnderKnightShell "any ek file"`
 
 ## Currently WIP
 * fixing bugs
